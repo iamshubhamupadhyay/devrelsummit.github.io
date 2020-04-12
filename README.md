@@ -1,2 +1,2 @@
-# devrelsummit.github.io
+# devrelsummit.github.i
 Official website of India DevRel Summit
